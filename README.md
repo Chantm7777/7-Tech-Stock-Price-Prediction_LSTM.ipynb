@@ -1,5 +1,7 @@
-# 7-Tech-Stock-Price-Prediction_LSTM.ipynb
+
 Using LSTM to Predict 7 Tech Stock Price
+
+
 ##Frame work
 initial stage for model building for the 7 tech stock prediction
 Prerequisite: separate the stocks by symbols, loop all the symbols for following steps
